@@ -1,12 +1,12 @@
-# ¡Hi! 👋
+# ¡Hola! 👋
 
-## I am Axel García, a mobile application developer and a graduate in Computer Systems Engineering.
+## Soy Axel García, desarrollador de aplicaciones móviles y egresado de Ingeniería en Sistemas Computacionales.
 
-Currently, I specialize in mobile application development, though I am also passionate about web development, particularly in the backend. Additionally, I enjoy designing engaging visual experiences in the frontend.
+Actualmente, me especializo en el desarrollo de aplicaciones móviles, aunque también me apasiona el desarrollo web, especialmente en el backend. Además, disfruto diseñando experiencias visuales atractivas en el frontend.
 
-Feel free to explore my GitHub profile and contact me via the email address and LinkedIn account listed on my profile.
+Siéntete libre de explorar mi perfil de GitHub y de contactarme a través del correo electrónico y la cuenta de LinkedIn que se encuentran en mi perfil.
 
-### Most Used Languages
+### Lenguajes Más Usados
 
 [![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelrpg&layout=compact)](https://github.com/Axelrpg)
 
